@@ -1,4 +1,4 @@
-from LinkedList.reverse_it_1_1.LNode import LNode
+from LinkedList.LNode import LNode
 
 def my_reverse(head):
     if head==None or head.next==None or head.next.next==None:#书上代码有误，无法应对1个元素的边界情况

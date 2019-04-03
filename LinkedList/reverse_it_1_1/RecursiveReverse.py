@@ -1,7 +1,7 @@
-from LinkedList.reverse_it_1_1.LNode import LNode
+from LinkedList.LNode import LNode
 #有头节点
 
-def book_recursive_reverse(head):
+def book_recursive_reverse(head):#看错了，书上没错。。
     if head is None:
         #递归终止条件
         return
