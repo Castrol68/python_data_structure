@@ -1,4 +1,4 @@
-from LinkedList.LNode import LNode
+from C1_LinkedList.LNode import LNode
 #有头节点
 
 def book_recursive_reverse(head):#看错了，书上没错。。

@@ -1,4 +1,4 @@
-from LinkedList.LNode import LNode
+from C1_LinkedList.LNode import LNode
 
 #返回链表中间节点
 def find_middle_node(head):

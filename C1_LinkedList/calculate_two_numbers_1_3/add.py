@@ -1,4 +1,4 @@
-from LinkedList.LNode import LNode
+from C1_LinkedList.LNode import LNode
 
 
 def add(h1, h2):
